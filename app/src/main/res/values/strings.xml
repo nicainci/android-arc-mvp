@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="no_tasks_all">您没有任务</string>
+    <string name="no_tasks_add">添加一个任务</string>
+    <string name="menu_filter">过滤</string>
+    <string name="menu_clear">清除</string>
+    <string name="refresh">刷新</string>
+    <string name="nav_all">全部</string>
+    <string name="nav_active">待办</string>
+    <string name="nav_completed">完成</string>
+    <string name="task_marked_complete">完成</string>
+    <string name="task_marked_active">代办</string>
+    <string name="completed_tasks_cleared">清理完毕</string>
+    <string name="loading_tasks_error">加载出错</string>
+    <string name="label_active">代办</string>
+    <string name="label_completed">完成</string>
+    <string name="label_all">全部</string>
+    <string name="no_tasks_active">没有代办</string>
+    <string name="no_tasks_completed">没有完成</string>
+    <string name="successfully_saved_task_message">保存成功</string>
+    <string name="menu_delete_task">删除</string>
+    <string name="loading">加载中</string>
+    <string name="no_data">没有数据</string>
+    <string name="add_task">添加任务</string>
+    <string name="edit_task">编辑任务</string>
+    <string name="title_hint">标题</string>
+    <string name="description_hint">这里输入你的任务</string>
+    <string name="empty_task_message">空的任务</string>
+    <string name="statistics_title">统计</string>
+    <string name="statistics_error">加载错误</string>
+    <string name="statistics_no_tasks">您没有任务</string>
+    <string name="statistics_active_tasks">代办任务：</string>
+    <string name="statistics_completed_tasks">已完成任务：</string>
+</resources>
